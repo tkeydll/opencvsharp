@@ -2769,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.WindowsLibraryLoader.html",
-          "hash": "xGaAP+97Us+n7ov8AU0LUrcWctWiXfvvgqPOH/BfoWk="
+          "hash": "EgN8bKqdvzLNeWvVWLbOKHxUWXFI/uzTwVozTq9By+w="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat-1.html",
-          "hash": "OA4AlTVHjDykYk4FoDWxDITy+9bKg9mm4RUhe/bj7Fs="
+          "hash": "1RpNiOsSaPcTuVwsXvdrCmVrG2ZMe9FcKSlspXtT4RI="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Mat.html",
-          "hash": "yzhxauwBSQQdiae0EWsP/vM9PPw3+I8uOCBC5QJNnuw="
+          "hash": "/NsbTb8KMQYd2dhyWPzlV6+Ni2g4ciUkcA4X85avFZY="
         }
       },
       "is_incremental": false,
@@ -5645,6 +5645,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.BitmapSourceConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.BitmapSourceConverter.html",
+          "hash": "D0UfLWPHKICOujUU8H1A18I7q3l38wk5gL6Gj//Drp4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.WriteableBitmapConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.WriteableBitmapConverter.html",
+          "hash": "YL/M5yXHX6iBO8xhh9w3aTm+sIzF5P9sed3Jfm8g/KU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenCvSharp.WpfExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenCvSharp.WpfExtensions.html",
+          "hash": "j7vCHef3AO1fWad7fXwf0FqfBeUFnIUuqR+bCE8Qn5E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/OpenCvSharp.XFeatures2D.BriefDescriptorExtractor.yml",
       "output": {
         ".html": {
@@ -6285,7 +6321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "GWwV616FIWqBqN9VR9Sy2mv7W1mVRhbvi13/rzUXY3k="
+          "hash": "5t2i6QpXuqgY3zBlFt+/Y4qga5/VVYgtZAC3mBEa5t0="
         }
       },
       "is_incremental": false,
@@ -6360,7 +6396,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 522,
+          "total_file_count": 525,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
