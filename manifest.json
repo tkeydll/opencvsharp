@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.CascadeClassifier.html",
-          "hash": "jRZV+3I4mczIrh6H42oLTpiFbXq/ta9zwE9gKmAmhVw="
+          "hash": "0DpkNchPx0yU0COtCIAZoktD3UAJQwu10bYHzlnUvLQ="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.NativeMethods.html",
-          "hash": "CnJwmwiL+xVvqYBPbFoNIG+F+wvxQGOIUcdxCDn4mwM="
+          "hash": "OCImMMUk1c4wdmiHMF2rci7OoHR9VQhxF0IB94d0e0g="
         }
       },
       "is_incremental": false,
